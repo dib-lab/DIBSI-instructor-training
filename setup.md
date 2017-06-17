@@ -10,6 +10,7 @@ training_site: https://swcarpentry.github.io/instructor-training
     * "The Science of Learning" <{{ page.training_site }}/files/papers/science-of-learning-2015.pdf>
     * "Success in Introductory Programming: What Works?" <{{ page.training_site }}/files/papers/porter-what-works-2013.pdf>  
 
+
 2.  Please go to the Software Carpentry lessons page <{{ site.swc_site }}/lessons/>
     and the Data Carpentry lessons page <{{ site.dc_site}}/lessons/>,
     have a look at what we currently teach,
@@ -25,7 +26,7 @@ training_site: https://swcarpentry.github.io/instructor-training
     (a tablet won't be sufficient).
 
 Please note that after this course is over,
-you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
+you will be asked to do complete one or more short follow-up exercises online in order to finish qualifying as an instructor:
 the details are available at <{{ page.training_site }}/checkout/>.
 If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
@@ -51,7 +52,7 @@ Please read through *one* of the episodes below carefully, so that you can do so
 
 **Data Carpentry**
 
-* Faceting and Clustering in OpenRefine: <{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine/>
+* Wrangling Genomics - Read QC: <{{ site.dc_site }}/wrangling-genomics/00-readQC.html>
 * Basic Queries in SQL: <{{ site.dc_site }}/sql-ecology-lesson/01-sql-basic-queries/>
 * Starting with Data in R: <{{ site.dc_site }}/R-ecology-lesson/02-starting-with-data.html>
 * Starting with Data in Python: <{{ site.dc_site }}/python-ecology-lesson/01-starting-with-data>
