@@ -13,7 +13,7 @@ while many myths about education have proven remarkably persistent.
 The class will be hands-on throughout:
 short lessons will alternate with individual and group practical exercises,
 including practice teaching sessions.
-Those who complete the two full days
+Those who complete the course
 and [some short follow-up exercises online]({{ page.root }}/checkout/)
 will be certified to teach [Software Carpentry]({{ site.swc_site }})
 and/or [Data Carpentry]({{ site.dc_site }}).
