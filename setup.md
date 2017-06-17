@@ -46,6 +46,9 @@ Episodes
 
 Please read through *one* of the episodes below carefully, so that you can do some exercises based on it on the first day of the class.
 
+**Next-Generation Sequence Analysis Workshop**
+* Select a lesson from the 2016 ANGUS curriculum: <https://angus.readthedocs.io/en/2016/>
+
 **Data Carpentry**
 
 * Faceting and Clustering in OpenRefine: <{{ site.dc_site }}/OpenRefine-ecology-lesson/01-working-with-openrefine/>
