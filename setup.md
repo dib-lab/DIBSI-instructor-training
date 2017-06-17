@@ -9,8 +9,7 @@ training_site: https://swcarpentry.github.io/instructor-training
 
     * "The Science of Learning" <{{ page.training_site }}/files/papers/science-of-learning-2015.pdf>
     * "Success in Introductory Programming: What Works?" <{{ page.training_site }}/files/papers/porter-what-works-2013.pdf>  
-
-
+  
 2.  Please go to the Software Carpentry lessons page <{{ site.swc_site }}/lessons/>
     and the Data Carpentry lessons page <{{ site.dc_site}}/lessons/>,
     have a look at what we currently teach,
