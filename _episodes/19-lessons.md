@@ -448,7 +448,7 @@ are available on [Data Carpentry's]({{ site.dc_site }}/lessons/) and [Software C
 [amazon-ubd]: http://www.amazon.com/Understanding-Design-Expanded-Grant-Wiggins/dp/0131950843/
 [lesson-example]: https://github.com/swcarpentry/lesson-example
 [parnas-design-pdf]: http://www.ics.uci.edu/~taylor/classes/121/IEEE86_Parnas_Clement.pdf
-[parnas-design]: http://dx.doi.org/10.1109/TSE.1986.6312940
+[parnas-design]: https://doi.org/10.1109/TSE.1986.6312940
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
 [wikipedia-learning-modes]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
 [wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development
